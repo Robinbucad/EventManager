@@ -1,0 +1,10 @@
+.appContainer{
+    background: #D6E4E5;
+    height: 100vh;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+}
+

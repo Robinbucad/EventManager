@@ -1,0 +1,57 @@
+.formContainer{
+    
+    border: none solid black;
+    background-color: #50577A;
+    height: 80vh;
+    border-radius: 5px;
+    align-items: center;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+.inputDiv{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    color: white;
+}
+
+.personalInfoDiv{
+    color: white;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.divSurname{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 43%;
+}
+.divName{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 43%;
+}
+
+
+.inputStyle{
+    background: #D6E4E5;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btnCreate{
+    width: 90%;
+    padding: 12px;
+    border: none;
+    background: #54B435;
+    font-weight: bold;
+    border-radius: 5px;
+}

@@ -1,0 +1,86 @@
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\backtapping.exe
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\backtapping.deps.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\backtapping.runtimeconfig.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\backtapping.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\backtapping.pdb
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\DnsClient.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\Snappier.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.AssemblyInfo.cs
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.backtapping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.build.backtapping.props
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backtapping.props
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backtapping.props
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\scopedcss\bundle\backtapping.styles.css
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.CopyComplete
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\refint\backtapping.dll
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.pdb
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\backtapping.genruntimeconfig.cache
+C:\Users\robin\Desktop\New folder\backtapping\backtapping\obj\Debug\net6.0\ref\backtapping.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\appsettings.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\backtapping.exe
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\backtapping.deps.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\backtapping.runtimeconfig.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\backtapping.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\backtapping.pdb
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\DnsClient.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\Snappier.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.AssemblyInfo.cs
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.backtapping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.build.backtapping.props
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backtapping.props
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backtapping.props
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\scopedcss\bundle\backtapping.styles.css
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.csproj.CopyComplete
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\refint\backtapping.dll
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.pdb
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\backtapping.genruntimeconfig.cache
+C:\Users\robin\Desktop\Tappin\backtapping\backtapping\obj\Debug\net6.0\ref\backtapping.dll

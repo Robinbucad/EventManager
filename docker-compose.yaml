@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+
+  frontend:
+    container_name: frontend
+    build: ./fronttappin
+    ports:
+      - 3000:3000
+    stdin_open: true
+    command: npm start
+  
+  backend:
+    build: backtapping/backtapping
+    ports:
+    - "5000:5000"
+    environment:
+      ASPNETCORE_HTTP_PORT: https://+:5001
+      ASPNETCORE_URLS: http://+:5000
+      ASPNETCORE_ENVIRONMENT: Development
+
+  
+
