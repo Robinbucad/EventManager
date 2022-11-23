@@ -1,9 +1,9 @@
-import { usePostData } from '../../API';
+import { usePutData } from '../../API';
 import './style.css'
 
 function FormPage() {
 
-  const {addAssistant} = usePostData()
+  const {addAssistant} = usePutData()
 
   const handleSubmit = e => {
     e.preventDefault()

@@ -1,4 +1,4 @@
-export function usePostData(){
+export function usePutData(){
     const addAssistant = async(url,assistant) => {
         try{
             const res = await fetch(url,{
