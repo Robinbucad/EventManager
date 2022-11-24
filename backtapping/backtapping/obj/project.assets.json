@@ -975,11 +975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\Desktop\\Tappin\\backtapping\\backtapping\\backtapping.csproj",
+      "projectUniqueName": "C:\\Users\\robin\\Desktop\\Tap\\backtapping\\backtapping\\backtapping.csproj",
       "projectName": "backtapping",
-      "projectPath": "C:\\Users\\robin\\Desktop\\Tappin\\backtapping\\backtapping\\backtapping.csproj",
+      "projectPath": "C:\\Users\\robin\\Desktop\\Tap\\backtapping\\backtapping\\backtapping.csproj",
       "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robin\\Desktop\\Tappin\\backtapping\\backtapping\\obj\\",
+      "outputPath": "C:\\Users\\robin\\Desktop\\Tap\\backtapping\\backtapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",

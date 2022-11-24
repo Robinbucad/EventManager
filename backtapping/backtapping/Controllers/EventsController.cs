@@ -8,13 +8,18 @@ namespace backtapping.Controllers
     [ApiController]
     public class EventsController : Controller
     {
-        private IEventService db = new EventService();
+        private readonly IEventService _eventService;
+
+        public EventsController(IEventService eventService)
+        {
+            _eventService = eventService;
+        }
 
         [HttpGet]
         public async Task<IActionResult> getEvents()
         {
 
-            List<Event> events = await db.GetEvents();
+            List<Event> events = await _eventService.GetEvents();
             List<EventDTO> eventsDTO = new List<EventDTO>();
 
             foreach (Event ev in events)
@@ -42,7 +47,7 @@ namespace backtapping.Controllers
             eventDTO.EventName = ev.EventName;
             eventDTO.assistants = ev.assistants;
 
-            await db.insertEvent(ev);
+            await _eventService.insertEvent(ev);
             return Created("Created", eventDTO);
         }
 
@@ -58,7 +63,7 @@ namespace backtapping.Controllers
             newAssist.Phone = assistant.Phone;
             newAssist.Email = assistant.Email;
 
-            await db.updateEvent(newAssist);
+            await _eventService.updateEvent(newAssist);
             return Created("Created", newAssist);
         }
     }
