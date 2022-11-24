@@ -1,4 +1,9 @@
+import { useState } from "react"
+
 export function usePutData(){
+
+    const [register,setRegistered] = useState("Register")
+
     const addAssistant = async(url,assistant) => {
         try{
             const res = await fetch(url,{
@@ -9,8 +14,9 @@ export function usePutData(){
                 body:JSON.stringify(assistant)
             })
             if(res.status === 201){
-                alert("You have been added to this event")
                 window.location.reload(false)
+                alert("You have been added")
+                setRegistered("Added Successfully")
             }
             if(res.status === 500){
                 alert("Event doesn't exist")
@@ -20,5 +26,5 @@ export function usePutData(){
         }
     } 
 
-    return {addAssistant}
+    return {addAssistant,register}
 }
